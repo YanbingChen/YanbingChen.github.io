@@ -54,14 +54,15 @@ h1{
     font-size: xx-large;
     text-align: center;
 }
-h2{
+h2 {
     color: cornsilk;
     font-size: large;
     text-align: center;
+    font-family: 'Noto Sans Symbols', sans-serif;
 }
+  
 img{
     display: block;
-    width: 20vw;
-    padding: 2rem;
+    width: 25vw;
     margin: 0 auto;
 }

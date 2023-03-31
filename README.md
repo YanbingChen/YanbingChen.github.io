@@ -1,2 +1,0 @@
-# YanbingChen.github.io
-workshop
